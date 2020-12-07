@@ -1,0 +1,32 @@
+{
+  "name": "vanilla2",
+  "version": "1.0.0",
+  "description": "second test for the vanilla chatbot project",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laurene-v/chatbot.git"
+  },
+  "author": "Laurene-v",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laurene-v/chatbot/issues"
+  },
+  "homepage": "https://github.com/Laurene-v/chatbot#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "matcher": "^2.1.0",
+    "nodemon": "^2.0.2",
+    "package": "^1.0.1",
+    "request": "^2.88.2",
+    "spotify-web-api-js": "^1.2.0",
+    "spotify-web-api-node": "^4.0.0",
+    "xregexp": "^4.2.4"
+  }
+}
