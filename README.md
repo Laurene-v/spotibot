@@ -37,5 +37,4 @@ give me songs like Arabella by Arctic Monkeys in G
 Other ideas regarding our chatbot:
 We had also managed to have an Authentification part where the user could login into his own Spotify account and get information from there.
 That would have also avoided him to create a new access token everytime.
-However, we didn't manage to connect it to our chatbot in time.
 We had also started to create a link to Facebook using the Messenger app, where the user could ask his questions through there and not through Nodejs.
