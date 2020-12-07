@@ -3,7 +3,7 @@ README SPOTIBOT :
 ------------------------
 ZHONG Fanny
 VAUGRANTE Laurène
-IBO 5
+
 ------------------------
 
 Our chatbot Spotibot gives the user information on music tracks that the user sends him (popularity, preview, album or key), and gives out other recommendations of songs similar to this track the user likes.
@@ -25,7 +25,7 @@ Types of questions answered by the chatbot :
 
 (as well as greetings and simple conversation topics like "how are you" or "what's your name")
 
-Examples used in the demo video :
+Examples of queries:
 
 give me a preview of Perempuan by Osvaldorio
 what is the popularity of psycho by red velvet
